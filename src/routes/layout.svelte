@@ -9,15 +9,15 @@
     let menu = [
         {
             name: "Inicio",
-            rut: "/",
+            rut: "/Prueba-portafolio/",
         },
         {
             name: "Primero",
-            rut: "/primero",
+            rut: "/Prueba-portafolio/primero",
         },
         {
             name: "Segundo",
-            rut: "/segundo",
+            rut: "/Prueba-portafolio/segundo",
         },
     ];
 </script>
