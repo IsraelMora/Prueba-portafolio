@@ -30,13 +30,13 @@
         <br /><br /><br />
         <div class="bg-white w-11/12 mx-auto mb-8 mt-7 h-3/4">
             <Router>
-                <Route path="/">
+                <Route path="/Prueba-portafolio/">
                     <Inicio />
                 </Route>
-                <Route path="/primero">
+                <Route path="/Prueba-portafolio/primero">
                     <Segundo />
                 </Route>
-                <Route path="/segundo">
+                <Route path="/Prueba-portafolio/segundo">
                     <Tercero />
                 </Route>
             </Router>
