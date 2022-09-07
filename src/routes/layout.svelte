@@ -13,11 +13,11 @@
         },
         {
             name: "Primero",
-            rut: "/Prueba-portafolio/primero",
+            rut: "/Prueba-portafolio/primero/",
         },
         {
             name: "Segundo",
-            rut: "/Prueba-portafolio/segundo",
+            rut: "/Prueba-portafolio/segundo/",
         },
     ];
 </script>
@@ -33,10 +33,10 @@
                 <Route path="/Prueba-portafolio/">
                     <Inicio />
                 </Route>
-                <Route path="/Prueba-portafolio/primero">
+                <Route path="/Prueba-portafolio/primero/">
                     <Segundo />
                 </Route>
-                <Route path="/Prueba-portafolio/segundo">
+                <Route path="/Prueba-portafolio/segundo/">
                     <Tercero />
                 </Route>
             </Router>
